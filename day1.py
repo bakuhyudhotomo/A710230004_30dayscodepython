@@ -7,7 +7,7 @@ class LightSwitch():
         self.switchIsOn = True 
 
     def turnOff(self): 
-    # turn the switch off
+    # turn the switch off 
         self.switchIsOn = False 
 
 
